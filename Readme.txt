@@ -9,10 +9,10 @@
 #                                         |___/  #
 ##################################################
 ========================================
-By: pablo67340
+By: pablo67340 (Bryce Wilkinson)
 ========================================
 
 Instructions:
 
-1. Extract the folder from the ZIP onto the root of your SD card.
-2. Have fun collecting weapons!
+1. Copy atmosphere folder to root of your SD card
+2. Launch Game
